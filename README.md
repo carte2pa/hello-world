@@ -1,2 +1,3 @@
 # hello-world
-First Repository 
+
+First project on gethub. Ready to learn.
